@@ -1,4 +1,4 @@
 Ejercicio N°3: promedio de compras de cada hogar 
-gabril rivero 
+gabriel rivero 
 30814419
 Electiva III, Nocturno "A"
